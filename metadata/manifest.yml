@@ -54,5 +54,5 @@ Endpoints:
 #Source-Url: https://github.com/jhou1/v2mysql.git
 #Source-Url: https://github.com/nanwei/mysqlv2cart/blob/master/v2mysql.tar.gz
 #Source-Url: https://github.com/jhou1/v2mysql/raw/master/v2mysql.tar.gz
-#Source-Url: https://github.com/jhou1/v2mysql/raw/master/v2mysql.zip
+##Source-Url: https://github.com/jhou1/v2mysql/raw/master/v2mysql.zip
 Source-Url:https://github.com/nanwei/mysqlv2cart/blob/master/v2mysql.zip
