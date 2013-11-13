@@ -6,7 +6,7 @@ Description: "MySQL is a multi-user, multi-threaded SQL database server."
 Version: '5.1'
 Versions: [5.1]
 Cartridge-Version: 0.2.0
-Cartridge-Vendor: jhou
+Cartridge-Vendor: nwei
 License: GPL
 Vendor: Oracle
 Categories:
@@ -55,4 +55,4 @@ Endpoints:
 #Source-Url: https://github.com/nanwei/mysqlv2cart/blob/master/v2mysql.tar.gz
 #Source-Url: https://github.com/jhou1/v2mysql/raw/master/v2mysql.tar.gz
 ##Source-Url: https://github.com/jhou1/v2mysql/raw/master/v2mysql.zip
-Source-Url:https://github.com/nanwei/mysqlv2cart/blob/master/v2mysql.zip
+Source-Url:https://github.com/nanwei/mysqlv2cart/raw/master/v2mysql.zip
